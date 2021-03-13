@@ -1,0 +1,11 @@
+Proposer and reactor are commonly used as "man" and "woman" for this algorithm.
+Since I didn't want this code to be specific for a marriage problem I used the terms "proposer" and "reactor"
+Proposers propose to reactors, reactors only react to propositions.
+
+Code takes two txt file names as argument. Example: proposers.txt reactors.txt
+First argument will be treated as proposers and second one as reactors
+
+An example input to the program is provided: "proposers.txt" and "reactors.txt" (this format was used in the lecture)
+Inside proposers.txt and reactors.txt, first line tells the number of lines after that one. Each line represents a proposer (or a reactor).
+Numbers represent preferences of a proposer (or a reactor) with decreasing priority from left to right.
+A number corresponds to a line (proposer or a reactor) in the opposite file (a number in proposer file represents a line in reactor file).
