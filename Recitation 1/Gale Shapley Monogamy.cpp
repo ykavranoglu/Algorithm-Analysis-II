@@ -4,10 +4,6 @@ Author: ykavranoglu
 Date: 13.03.2021
 */
 
-/*  notes to self
-    CONSIDER: using this with variables with meaningful names: proposers[i].preferences[j]
-*/
-
 #include <iostream>
 #include <fstream>
 #include <string>
