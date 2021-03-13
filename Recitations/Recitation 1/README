@@ -10,4 +10,4 @@ Inside proposers.txt and reactors.txt, first line tells the number of lines afte
 Numbers represent preferences of a proposer (or a reactor) with decreasing priority from left to right.
 A number corresponds to a line (proposer or a reactor) in the opposite file (a number in proposer file represents a line in reactor file).
 
-A simple queue data type is implemented (Int_Queue). Stores integers to be used as line indexes. Enqueuings take places at the tail and dequeings take place at the head.
+A simple queue data structure is implemented (Int_Queue). Stores integers to be used as line indexes. Enqueuings take places at the tail and dequeings take place at the head.
